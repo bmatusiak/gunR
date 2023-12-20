@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "browserify": "^17.0.0",
     "gun": "github:amark/gun",
     "uglify-js": "^3.17.4"
   }
