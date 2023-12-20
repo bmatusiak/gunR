@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "browserify": "^17.0.0",
+    "gun": "*",
     "uglify-js": "^3.17.4"
   }
 }
