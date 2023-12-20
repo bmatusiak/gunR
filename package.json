@@ -1,0 +1,15 @@
+{
+  "name": "gunr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node post-install.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gun": "github:amark/gun",
+    "uglify-js": "^3.17.4"
+  }
+}
